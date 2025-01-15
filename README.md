@@ -1,4 +1,8 @@
-## Hi there 👋
+An interactive Power BI dashboard analyzing credit card transaction data. The project highlights
+transaction patterns, detects anomalies, and provides actionable insights into user spending habits.
+The dashboard ensures a comprehensive view for improved decision-making and fraud detection.
+
+
 
 <!--
 **Dipajawale/Dipajawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
